@@ -1,3 +1,52 @@
-# Odoo.sh release workflow
+**🔮 *The Odoo.sh Ritual* 🔮**
 
-TODO-TODO
+# *Monday Morning.*
+
+```
+Steam rises from
+a cup of Italian certainty.
+Bitter.
+Precise.
+Just like the week ahead.
+
+We open the gates —
+a branch named
+`release-w25`.
+
+Not twenty-five thousand euros to invoice,
+no—
+just a humble number,
+marking the week
+when we awaken,
+log in,
+and summon the next incarnation
+of the code.
+
+Next Monday:
+`release-w26`.
+Like clockwork.
+Like ritual.
+Like Gregorian monks,
+we chant commits
+into the abyss of time.
+
+But beware the solstice week.
+No ordinary name shall hold.
+We carve it in ancient runes:
+`release-⚔️`.
+
+Because that week,
+code flows through legend,
+and the year turns.
+New dawn,
+new branch:
+`release-w1-2027`.
+
+And so,
+the wheel turns again.
+
+But only
+after coffee.
+Always
+after coffee.
+```
