@@ -12,7 +12,11 @@ Just like the week ahead.
 We open the gates —
 a branch named
 `release-w25`.
+```
 
+![👍](https://github.com/user-attachments/assets/df600bc0-7350-4c9f-ae37-41c635bf3faa)
+
+```
 Not twenty-five thousand euros to invoice,
 no—
 just a humble number,
@@ -21,7 +25,11 @@ when we awaken,
 log in,
 and summon the next incarnation
 of the code.
+```
 
+![👍](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)
+
+```
 Next Monday:
 `release-w26`.
 Like clockwork.
@@ -29,7 +37,11 @@ Like ritual.
 Like Gregorian monks,
 we chant commits
 into the abyss of time.
+```
 
+![🙏](https://github.com/user-attachments/assets/bcac3144-891c-4a0f-bec0-cf6a116cb7ba)
+
+```
 But beware the solstice week.
 No ordinary name shall hold.
 We carve it in ancient runes:
@@ -41,7 +53,11 @@ and the year turns.
 New dawn,
 new branch:
 `release-w1-2027`.
+```
 
+# 🤍🤍🤍
+
+```
 And so,
 the wheel turns again.
 
