@@ -27,7 +27,7 @@ and summon the next incarnation
 of the code.
 ```
 
-![👍](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)
+[![👍](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)](🙏.markdown)
 
 ```
 Next Monday:
