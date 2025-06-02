@@ -27,7 +27,7 @@ and summon the next incarnation
 of the code.
 ```
 
-[![👍](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)](🙏.markdown)
+![👍](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)
 
 ```
 Next Monday:
@@ -39,7 +39,7 @@ we chant commits
 into the abyss of time.
 ```
 
-![🙏](https://github.com/user-attachments/assets/bcac3144-891c-4a0f-bec0-cf6a116cb7ba)
+[![🙏](https://github.com/user-attachments/assets/bcac3144-891c-4a0f-bec0-cf6a116cb7ba)](🙏.markdown)
 
 ```
 But beware the solstice week.
