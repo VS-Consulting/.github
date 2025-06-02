@@ -45,7 +45,7 @@ into the abyss of time.
 But beware the solstice week.
 No ordinary name shall hold.
 We carve it in ancient runes:
-`release-⚔️`.
+`release-☀️`.
 
 Because that week,
 code flows through legend,
