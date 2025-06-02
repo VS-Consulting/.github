@@ -101,7 +101,7 @@ et vient modifier
 l’ordre secret du temps.
 ```
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/38/Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/3/38/Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg)](https://odoo.sh/project?debug=assets.exe)
 
 ```
 **Car Odoo**,
