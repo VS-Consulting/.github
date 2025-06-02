@@ -76,7 +76,8 @@ This is the law
 of release and return.
 And so we rest.
 And so we rise.
+```
 
 With every week,
-a resurrection of code.
-```
+<br/>a resurrection of code.<br/>
+Amen.
