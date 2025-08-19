@@ -1,5 +1,7 @@
 # Weekly Release Cycle
 
+![](https://github.com/user-attachments/assets/4ec1d334-8d30-4ebe-a5e6-d62d79082edb)
+
 Every week we prepare a new release.
 Technically, it starts with a **branch** named like `release-w33` — the candidate for week 33.
 This release branch aggregates multiple development branches, typically named `w33-xxx-yyy-zzz`.
